@@ -6,7 +6,9 @@
 	</head>
 	<body>
 		<h1>Purpose</h1>
-		<p>hello</p>
+		<p>The purpose of my personal website is to promote myself as an
+			entry-level jr developer, it should be a demonstartion of my
+			skill set. </p>
 		<h1>Audience</h1>
 		<p>world</p>
 		<h1>Goal</h1>
