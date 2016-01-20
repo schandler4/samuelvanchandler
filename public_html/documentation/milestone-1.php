@@ -10,7 +10,7 @@
 			entry-level jr developer, it should be a demonstartion of my
 			skill set. </p>
 		<h1>Audience</h1>
-		<p>world</p>
+		<p>The intended audience is employers and recruiters</p>
 		<h1>Goal</h1>
 		<p>!</p>
 	</body>
