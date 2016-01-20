@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html laNg="en">
+<html lang="en">
 	<head>
 		<meta charset="utf-8"/>
 		<title>Professional Demo Page</title>
