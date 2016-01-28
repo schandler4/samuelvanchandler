@@ -28,6 +28,7 @@
 			She is looking for a cheap candidate for the position, that doesn't have much<br>
 			experience, but shows an enthusiasm for the technologies requisite and that<br>
 			presents her with the least amount of risk.
-			</p>
+		</p>
+		<img src="image/wireframes.gif" alt="wireframes" />
 	</body>
 </html>
