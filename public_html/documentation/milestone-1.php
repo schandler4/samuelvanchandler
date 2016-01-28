@@ -29,6 +29,5 @@
 			experience, but shows an enthusiasm for the technologies requisite and that<br>
 			presents her with the least amount of risk.
 		</p>
-		<img src="image/wireframes.gif" alt="wireframes" />
 	</body>
 </html>
