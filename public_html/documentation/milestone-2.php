@@ -20,5 +20,6 @@
 		direct to my site. They should be able to scroll quickly
 		down the one page to obtain this information.
 		</p>
+		<img src="image/wireframes.gif" alt="wireframes" />
 	</body>
 </html>
