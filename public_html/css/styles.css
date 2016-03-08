@@ -5,10 +5,11 @@
 	/*background-repeat: no-repeat;*/
 	/*background-position: center center;*/
 /*}*/
-/*.pandapic {*/
-	/*width: 500px;*/
-	/*height: 300px;*/
-/*}*/
+.pic {
+	width: 500px;
+	height: 300px;
+}
+
 body,html {
 	height: 100%;
 }
@@ -21,7 +22,7 @@ body {
 	width:100%;
 	height:100%;
 	height:calc(100% - 1px);
-	background-image:url(../img/Panda_Cub.JPG);
+	background-image:url(../img/countyfair.jpg);
 	background-size:cover;
 }
 

@@ -7,7 +7,7 @@
 
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-		<link type="text/css" href="css/styles.css" rel="stylesheet" />
+		<link type="text/css" href="css/styles" rel="stylesheet">
 		<!--Optional theme-->
 <!--		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">-->
 
@@ -47,9 +47,64 @@
 		<div class="col-xs-2 logo">Logo</div>
 		<div class="col-xs-5 line"><hr></div>
 	</div>
+	<section>
+		<div class="container-fluid">
+			<div class="row">
+				<div id="works" class="col-xs-12">
+					<h2>Works</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<a href="img/panda-sleep-2.jpg" class="pic">
+						<img src="img/panda-sleep-2.jpg" alt="panda">
+					</a>
+				</div>
+				<div class="col-md-4">
+					<a href="img/Panda_Cub.JPG" class="pic">
+						<img src="img/Panda_Cub.JPG" alt="panda">
+					</a>
+				</div>
+				<div class="col-md-4">
+					<a href="img/t1largpanda.jpg" class="pic">
+						<img src="img/t1largpanda.jpg" alt="panda">
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4">
 
-	<div class="container">
-		<div class="text-center">
-			<h1>Content</h1>
+					<a href="img/t1largpanda.jpg"  class="thumbnail">
+						<img src="img/t1largpanda.jpg" alt="panda">
+					</a>
+				</div>
+				<div class="col-md-4 ">
+					<a href="img/panda-sleep-2.jpg" class="thumbnail">
+						<img src="img/panda-sleep-2.jpg" alt="panda">
+					</a>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
 		</div>
-	</div><!-- /.container -->
+	</section>
+	​
+	<footer>
+		<div id="contact" class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<!-- look at Bootstrap nav links -->
+					<ul class="nav">
+						<li>link</li>
+						<li>link</li>
+						<li>link</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+<!--	<div class="container">-->
+<!--		<div class="text-center">-->
+<!--			<h1>Content</h1>-->
+<!--		</div>-->
+<!--	</div><!-- /.container -->-->
