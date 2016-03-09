@@ -5,19 +5,32 @@
 	/*background-repeat: no-repeat;*/
 	/*background-position: center center;*/
 /*}*/
+#top, #works, #contact {
+	padding-top: 60px;
+}
+
 .pic {
 	width: 500px;
 	height: 300px;
 }
 
-body,html {
+h1 {
+	font-family: 'Pacifico', Helvetica, sans-serif;
+	font-size: 80%;
+	color: #000000;
+
+}
+html {
+	display: flex;
 	height: 100%;
 }
 
 body {
-	padding-top: 50px;
+	height: 100%;
+	width: 100%;
+	background: #1d1b1c !important;
+	color: #dddddd;
 }
-
 .wide {
 	width:100%;
 	height:100%;
@@ -25,8 +38,11 @@ body {
 	background-image:url(../img/countyfair.jpg);
 	background-size:cover;
 }
-
-.wide img {
+.thumbnail {
+	width: 100%;
+	height: 100%;
+}
+img {
 	width:100%;
 }
 
