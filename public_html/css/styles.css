@@ -1,11 +1,11 @@
 
-/*#topbgimage {*/
+	/*#topbgimage {*/
 	/*!*background-image: url(../documentation/image/wireframes.gif);*!*/
 	/*background-size: cover;*/
 	/*background-repeat: no-repeat;*/
 	/*background-position: center center;*/
-/*}*/
-#top, #works, #contact {
+	/*}*/
+#works, #contact {
 	padding-top: 60px;
 }
 
@@ -16,10 +16,11 @@
 
 h1 {
 	font-family: 'Pacifico', Helvetica, sans-serif;
-	font-size: 80%;
+	font-size: 80px;
+	text-align: center;
 	color: #000000;
-
 }
+
 html {
 	display: flex;
 	height: 100%;
@@ -31,32 +32,37 @@ body {
 	background: #1d1b1c !important;
 	color: #dddddd;
 }
+
 .wide {
-	width:100%;
-	height:100%;
-	height:calc(100% - 1px);
+	min-height: 100vh;
 	background-image:url(../img/countyfair.jpg);
 	background-size:cover;
 }
+
 .thumbnail {
 	width: 100%;
 	height: 100%;
 }
+
 img {
 	width:100%;
 }
 
-.logo {
-	color:#fff;
-	font-weight:800;
-	font-size:14pt;
-	padding:25px;
-	text-align:center;
+.Aligner {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 50px;
 }
 
-.line {
-	padding-top:20px;
-	white-space:no-wrap;
-	overflow:hidden;
-	text-align:center;
+.Aligner-item {
+	max-width: 50%;
+}
+
+.Aligner-item--top {
+	align-self: flex-start;
+}
+
+.Aligner-item--bottom {
+	align-self: flex-end;
 }
