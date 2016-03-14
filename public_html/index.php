@@ -61,38 +61,51 @@
 			</div>
 			<div class="row">
 				<div class="col-md-4">
+					<h4>TimeCrunch</h4>
 					<a href="img/panda-sleep-2.jpg" class="thumbnail">
-						<img src="img/panda-sleep-2.jpg" alt="panda" class="img-responsive">
+						<img src="img/panda-sleep-2.jpg" alt="TimeCrunch" class="img-responsive">
 					</a>
 				</div>
-				<div class="col-md-4">
-					<a href="img/Panda_Cub.JPG" class="thumbnail">
-						<img src="img/Panda_Cub.JPG" alt="panda" class="img-responsive">
-					</a>
-				</div>
-				<div class="col-md-4">
-					<a href="img/t1largpanda.jpg" class="thumbnail">
-						<img src="img/t1largpanda.jpg" alt="panda" class="img-responsive">
-					</a>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-2"></div>
-				<div class="col-md-4">
-					<a href="img/t1largpanda.jpg" class="thumbnail">
-						<img src="img/t1largpanda.jpg" alt="panda" class="img-responsive">
-					</a>
-				</div>
-				<div class="col-md-4 ">
-					<a href="img/panda-sleep-2.jpg" class="thumbnail">
-						<img src="img/panda-sleep-2.jpg" alt="panda" class="img-responsive">
-					</a>
-				</div>
-				<div class="col-md-2"></div>
-			</div>
+<!--				<div class="col-md-4">-->
+<!--					<a href="img/Panda_Cub.JPG" class="thumbnail">-->
+<!--						<img src="img/Panda_Cub.JPG" alt="panda" class="img-responsive">-->
+<!--					</a>-->
+<!--				</div>-->
+<!--				<div class="col-md-4">-->
+<!--					<a href="img/t1largpanda.jpg" class="thumbnail">-->
+<!--						<img src="img/t1largpanda.jpg" alt="panda" class="img-responsive">-->
+<!--					</a>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="row">-->
+<!--				<div class="col-md-2"></div>-->
+<!--				<div class="col-md-4">-->
+<!--					<a href="img/t1largpanda.jpg" class="thumbnail">-->
+<!--						<img src="img/t1largpanda.jpg" alt="panda" class="img-responsive">-->
+<!--					</a>-->
+<!--				</div>-->
+<!--				<div class="col-md-4 ">-->
+<!--					<a href="img/panda-sleep-2.jpg" class="thumbnail">-->
+<!--						<img src="img/panda-sleep-2.jpg" alt="panda" class="img-responsive">-->
+<!--					</a>-->
+<!--				</div>-->
+<!--				<div class="col-md-2"></div>-->
+<!--			</div>-->
 		</div>
 	</section>
 	<footer>
+		<div id="contact" class="container">
+			<h2>Contact</h2>
+			<div class="row">
+				<div class="col-md-12">
+					<!-- look at Bootstrap nav links -->
+					<ul class="nav navbar-nav">
+						<li><a href="https://github.com/schandler4">Github</a></li>
+						<li><a href="https://www.linkedin.com/in/samuel-chandler-29435a116">Linkedin</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -140,17 +153,6 @@
 				</div>
 			</div>
 		</div>
-		<div id="contact" class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<!-- look at Bootstrap nav links -->
-					<ul class="nav navbar-nav">
-						<li><a>link</a></li>
-						<li><a>link</a></li>
-						<li><a>link</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
+
 	</footer>
 </html>
