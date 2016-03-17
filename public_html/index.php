@@ -13,7 +13,8 @@
 				integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 		<link href='//fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 		<!-- Font Awesome -->
-		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
+				rel="stylesheet"/>
 
 		<link type="text/css" href="css/styles.css" rel="stylesheet">
 
@@ -66,32 +67,7 @@
 						<img src="img/panda-sleep-2.jpg" alt="TimeCrunch" class="img-responsive">
 					</a>
 				</div>
-<!--				<div class="col-md-4">-->
-<!--					<a href="img/Panda_Cub.JPG" class="thumbnail">-->
-<!--						<img src="img/Panda_Cub.JPG" alt="panda" class="img-responsive">-->
-<!--					</a>-->
-<!--				</div>-->
-<!--				<div class="col-md-4">-->
-<!--					<a href="img/t1largpanda.jpg" class="thumbnail">-->
-<!--						<img src="img/t1largpanda.jpg" alt="panda" class="img-responsive">-->
-<!--					</a>-->
-<!--				</div>-->
-<!--			</div>-->
-<!--			<div class="row">-->
-<!--				<div class="col-md-2"></div>-->
-<!--				<div class="col-md-4">-->
-<!--					<a href="img/t1largpanda.jpg" class="thumbnail">-->
-<!--						<img src="img/t1largpanda.jpg" alt="panda" class="img-responsive">-->
-<!--					</a>-->
-<!--				</div>-->
-<!--				<div class="col-md-4 ">-->
-<!--					<a href="img/panda-sleep-2.jpg" class="thumbnail">-->
-<!--						<img src="img/panda-sleep-2.jpg" alt="panda" class="img-responsive">-->
-<!--					</a>-->
-<!--				</div>-->
-<!--				<div class="col-md-2"></div>-->
-<!--			</div>-->
-		</div>
+			</div>
 	</section>
 	<footer>
 		<div id="contact" class="container">
@@ -106,9 +82,10 @@
 				</div>
 			</div>
 		</div>
+		<div class="col-md-2"></div>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-8">
 					<form action="php/mailer.php" method="post">
 						<div class="form-group">
 							<label for="name">Name</label>
@@ -143,16 +120,17 @@
 								<div class="input-group-addon">
 									<i class="fa fa-comment" aria-hidden="true"></i>
 								</div>
-								<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
+								<textarea class="form-control" rows="5" id="message" name="message"
+											 placeholder="Message"></textarea>
 							</div>
 						</div>
 						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 					</form>
 					<div id="output-area"></div>
+					<div class="col-md-2"></div>
 				</div>
 			</div>
 		</div>
-
 	</footer>
 </html>
