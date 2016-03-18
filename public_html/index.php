@@ -63,8 +63,8 @@
 			<div class="row">
 				<div class="col-md-4">
 					<h4>TimeCrunch</h4>
-					<a href="img/panda-sleep-2.jpg" class="thumbnail">
-						<img src="img/panda-sleep-2.jpg" alt="TimeCrunch" class="img-responsive">
+					<a href="img/time-crunch-crip.jpg" class="thumbnail">
+						<img src="img/time-crunch-crip.jpg" alt="TimeCrunch" class="img-responsive">
 					</a>
 				</div>
 			</div>
