@@ -67,6 +67,11 @@
 						<img src="img/time-crunch-crop.jpg" alt="TimeCrunch" class="img-responsive">
 					</a>
 				</div>
+				<div class="col-md-4">
+					<h4>TimeCrunch</h4>
+					<a href="pages/townie.php" class="thumbnail">
+					</a>
+				</div>
 			</div>
 	</section>
 	<footer>
