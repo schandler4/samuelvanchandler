@@ -68,9 +68,8 @@
 					</a>
 				</div>
 				<div class="col-md-4">
-					<h4>TimeCrunch</h4>
-					<a href="pages/townie.php" class="thumbnail">
-					</a>
+					<h4>Townie</h4>
+					<a href="pages/townie.php">right here!!!</a>
 				</div>
 			</div>
 	</section>
